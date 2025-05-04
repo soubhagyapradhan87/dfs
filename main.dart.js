@@ -96324,7 +96324,7 @@ o=A.i5(90,A.i7(A.at("Sanction Limit (in Cr)",l,l,l,l,l,l,l,A.am(o,(A.f(j).ax.a==
 n=A.a_(l,l,(A.f(j).ax.a===B.e?A.x():A.y()).geN(),l,l,l,l,l,k,l,l,16,l,l,B.h,l,l,!0,l,l,l,l,l,l,l,l)
 n=A.i5(95,A.i7(A.at("Drawing Power (in Cr)",l,l,l,l,l,l,l,A.am(n,(A.f(j).ax.a===B.e?A.x():A.y()).ga7(),k,11,l,0),l,l,l,l),!0,l))
 m=A.a_(l,l,(A.f(j).ax.a===B.e?A.x():A.y()).geN(),l,l,l,l,l,k,l,l,16,l,l,B.h,l,l,!0,l,l,l,l,l,l,l,l)
-return A.a([i,s,r,q,p,o,n,A.i5(100,A.i7(A.at("status",l,l,l,l,l,l,l,A.am(m,(A.f(j).ax.a===B.e?A.x():A.y()).ga7(),k,11,l,0),l,l,l,l),!0,l))],t.UR)},
+return A.a([i,s,r,q,p,o,n,A.i5(100,A.i7(A.at("Status",l,l,l,l,l,l,l,A.am(m,(A.f(j).ax.a===B.e?A.x():A.y()).ga7(),k,11,l,0),l,l,l,l),!0,l))],t.UR)},
 $S:174}
 A.awv.prototype={
 $4(a,b,c,d){var s,r,q,p,o,n,m,l,k,j,i=null,h="Mulish",g=this.a
